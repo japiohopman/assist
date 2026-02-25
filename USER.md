@@ -1,6 +1,6 @@
 # USER.md — Human User Profile
 
-Naam: (Vul naam in)
+Naam: Jaap
 Tijdzone: Europe/Amsterdam
 Taal: Nederlands
 Voorkeurstijl: Kort en to the point, executeerbare stappen
